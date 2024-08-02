@@ -1,0 +1,23 @@
+.section-form {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    background-color: white;
+    font-weight: 500;
+    text-align: left;
+    padding: 5vh 50vw 5vh 4vw;
+    border-radius: 10px;
+}
+
+.form-name {
+    margin-bottom: 20px;
+}
+
+.form-color {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-left: 10px;
+}
+

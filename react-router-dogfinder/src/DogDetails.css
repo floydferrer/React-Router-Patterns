@@ -1,0 +1,8 @@
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 5px;
+}

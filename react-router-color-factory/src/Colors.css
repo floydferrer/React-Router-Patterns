@@ -1,0 +1,20 @@
+.section-top {
+    background-color: rgb(39, 39, 39);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.section-top-link {
+    color: white;
+    font-weight: 700;
+    font-size: larger;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
